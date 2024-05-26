@@ -3,7 +3,7 @@
 
 ![Screenshot_2024_05_27-1](https://github.com/elnaz-eshtiaghi/signup-login/assets/146030206/c697c492-e502-4bcf-8b41-fffb5a51c95b)
 
-- [Demo Project]( https://elnaz-eshtiaghi.github.io/personal-web/)
+- [Demo Project](  https://elnaz-eshtiaghi.github.io/signup-login/)
 
 - Developed by elnaz eshtiaghi
 
